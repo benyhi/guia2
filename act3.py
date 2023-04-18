@@ -1,6 +1,4 @@
-#Preguntar si hay datos para ingresar, en caso afirmativo solicitar un número entero y 
-#decir si es negativo o no. Preguntar si repite.
-
+#Pedir el ingreso de 5 números. Contar los mayores de 23. Mostrar el resultado.
 
 confirmacion = input("Desea comprobar su numero escriba su opcion (SI) (NO): ")
 
