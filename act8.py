@@ -9,7 +9,6 @@ while precio != 0:
     precio = int(input("Ingrese el precio del auto: "))
 
     if 3460000 < precio > 12850000: 
-        precio =  
+        precio =  precio + 1 
         
-    else: 
-        print (total)
+print('Cantidad de autos dentro del rango: ', precio)

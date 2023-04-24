@@ -4,7 +4,7 @@
 maximo = 0
 hayDatos = 0
 
-while hayDatos != "si":
+while hayDatos != "no":
     numero = int(input("Ingrese un valor: "))
     if numero > maximo: 
         maximo = numero 
